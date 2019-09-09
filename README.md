@@ -1,5 +1,5 @@
 # tureta
-This repo contains functionalities that calculate an employees estimated pension to help him/her better plan of his/her retirement.
+This repo contains functionalities that calculate an employees estimated pension to help him/her better plan of his/her retirement starting today.
 
 tureta is a library that has different function to do basic salary computations. These functionalities includes things like monthly, semi-annual, and annual pension calculators. It also has a total retirement pension calculator that computes the pension by taking in factors such as age, retirement age, salary increment amount and percentages as well as inflation to give a realistic picture of what the employee is to expect when he/she retires.
 
